@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "campfire", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "soupfactory",
+    "count" : 1
+  },
+  "groups" : [ "objects", "craftingtable", "mod", "all" ]
+}
